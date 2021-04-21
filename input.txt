@@ -1,0 +1,14 @@
+100
+1.5
+1.e5
+1.75e
+"Hello Flex !"
+"Bad string with Hello Flex
+10.25e
++
+-j
++5
+Tunis
+if
+# loops
+while
